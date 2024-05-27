@@ -57,10 +57,10 @@ Dot Balls: Number of deliveries faced by the batsman that resulted in no runs.<b
 <b>Four Contribution</b>: Percentage of total team runs contributed by fours.<br>
 
 ## Bowling Metrics:
-Wickets Taken: Total number of wickets taken by the bowler.<br>
-Runs Given: Total runs conceded by the bowler.<br>
-Economy Rate: Average number of runs conceded per over.<br>
-Wides Given: Total number of wide deliveries bowled by the bowler.<br>
+<b>Wickets Taken</b>: Total number of wickets taken by the bowler.<br>
+<b>Runs Given</b>: Total runs conceded by the bowler.<br>
+<b>Economy Rate</b>: Average number of runs conceded per over.<br>
+<b>Wides Given</b>: Total number of wide deliveries bowled by the bowler.<br>
 These DAX measures provide quantitative insights into player and team performances, allowing stakeholders to analyze batting and bowling statistics effectively.<br>
 
 ## Usage
