@@ -1,60 +1,49 @@
-IPL Insights: Cricket Dashboard using Cricbuzz API in Power BI
-Overview
-IPL Insights is an interactive dashboard built in Power BI that provides real-time and historical analytics of IPL matches using data sourced from the Cricbuzz API via RapidAPI. This comprehensive dashboard offers stakeholders valuable insights into player performances, team statistics, and match dynamics, enabling data-driven decision-making.
+## IPL Insights: Cricket Dashboard using Cricbuzz API in Power BI
 
-Table of Contents
-Installation
-Data Source
-Data Preparation
-Dashboard Features
-DAX Measures
-Usage
-Contributing
-License
-Installation
-Clone the Repository:
+## Overview
+**IPL Insights** is an interactive dashboard built in Power BI that provides **real-time and historical analytics** of IPL matches using data sourced from the **Cricbuzz API** via RapidAPI. This comprehensive dashboard offers stakeholders **valuable insights** into player performances, team statistics, and match dynamics, enabling **data-driven decision-making**.
 
-sh
-Copy code
-git clone https://github.com/your-username/ipl-insights-powerbi.git
-Open Power BI Desktop:
-Import the IPL_Insights.pbix file from the cloned repository.
+### Table of Contents
+- [Installation](#installation)
+- [Data Source](#data-source)
+- [Data Preparation](#data-preparation)
+- [Dashboard Features](#dashboard-features)
+- [DAX Measures](#dax-measures)
+- [Usage](#usage)
+- [Contributing](#contributing)
+- [License](#license)
 
-Data Source
+## Data Source
 IPL Insights leverages the Cricbuzz API provided by RapidAPI to access detailed data on IPL matches, player performances, and team statistics.
 
-Data Preparation
+## Data Preparation
 API Integration:
 
-Utilized the Cricbuzz API to fetch real-time and historical IPL data.
+## Utilized the Cricbuzz API to fetch real-time and historical IPL data.
 Implemented API endpoints in Power BI using blank queries.
 Data Extraction:
 
-Fetched data stored in Power BI tables, organized by batsman info, bowler info, team info, live matches, and live data.
+## Fetched data stored in Power BI tables, organized by batsman info, bowler info, team info, live matches, and live data.
 Additional data preprocessing steps performed to ensure data accuracy and consistency.
 Dashboard Features
 IPL Insights offers stakeholders a wide range of features, including:
 
-Live Match Analysis:
-
+## Live Match Analysis:
 Real-time updates on ongoing IPL matches, including live scores, player performances, and match events.
 Dynamic visuals illustrating match progress, key milestones, and match dynamics.
 Player Performance Metrics:
-
 Detailed statistics on individual player performances, including runs scored, wickets taken, strike rates, and economy rates.
 Comparison tools to evaluate player performances across matches and seasons.
 Team Analysis:
-
 Comprehensive insights into team statistics, including win-loss records, run rates, average scores, and bowling figures.
 Visualization tools to compare team performances, identify trends, and analyze strategies.
 Match Insights:
-
 Historical analysis of past IPL matches, including match outcomes, top performers, and critical moments.
 Trend analysis to identify patterns, rivalries, and performance trends across seasons.
 DAX Measures
 IPL Insights utilizes advanced DAX measures to calculate various performance metrics, including:
 
-Batting Metrics:
+## Batting Metrics:
 Dot Balls: Number of deliveries faced by the batsman that resulted in no runs.
 Strike Rate: Percentage of runs scored per 100 balls faced.
 Sixes: Total number of sixes hit by the batsman.
@@ -73,7 +62,7 @@ Economy Rate: Average number of runs conceded per over.
 Wides Given: Total number of wide deliveries bowled by the bowler.
 These DAX measures provide quantitative insights into player and team performances, allowing stakeholders to analyze batting and bowling statistics effectively.
 
-Usage
+## Usage
 To utilize IPL Insights:
 
 Open the Power BI file: Launch Power BI Desktop and open the IPL_Insights.pbix file.
