@@ -3,6 +3,9 @@
 ## Overview
 **IPL Insights** is an interactive dashboard built in Power BI that provides **real-time and historical analytics** of IPL matches using data sourced from the **Cricbuzz API** via RapidAPI. This comprehensive dashboard offers stakeholders **valuable insights** into player performances, team statistics, and match dynamics, enabling **data-driven decision-making** this project uses PowerBi.
 
+## Dashboard
+[Dashboard Live Link - ](https://app.powerbi.com/groups/me/reports/10bfac0f-e3a0-4490-8bff-f9a286d81638/ReportSection?experience=power-bi)
+
 ### Table of Contents
 - [Installation](#installation)
 - [Data Source](#data-source)
